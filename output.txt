@@ -1,0 +1,66 @@
+./test/csmsc/1.wav|da4 jia1 hao3 ， wo3 shi4 wang2 bing1 bing1 。 jin1 tian1 de ye4 du2 ， wo3 zai4 ji2 lin2 sheng3 tong1 hua4 shi4 tu2 shu1 guan3 pei2 ban4 da4 jia1 。
+./test/csmsc/2.wav|qing1 ming2 jie2 wo3 men mian3 huai2 xian1 lie4 ， zhi4 jing4 ying1 xiong2 ， jin1 tian1 ne ， xiang3 gen1 da4 jia1 fen1 xiang3 yi1 ze2 ying1 xiong2 de gu4 shi4 。
+./test/csmsc/3.wav|tong1 hua4 shi4 shi4 yi2 ge4 you3 zhe hong2 se4 yin4 ji4 de cheng2 shi4 。
+./test/csmsc/4.wav|kang4 ri4 ying1 xiong2 yang2 jing4 yu3 jiu4 an1 zang4 zai4 zhe4 li3 ， zhe4 ji3 tian1 ne wo3 ye3 shi4 zai4 jing4 yu3 ling2 yuan2 jin4 xing2 le cai3 fang3 。
+./test/csmsc/5.wav|sui1 ran2 shuo1 ne ， yang2 jing4 yu3 zhe4 ge4 ming2 zi4 cong2 xiao3 dui4 wo3 men lai2 shuo1 shi4 er3 shu2 neng2 xiang2 。
+./test/csmsc/6.wav|dan4 shi4 qi2 shi2 ， jing1 li4 guo4 zhe4 ji3 tian1 de cai3 fang3   shen1 ru4 de liao3 jie3 le ta1 de shi4 ji4 zhi1 hou4  。
+./test/csmsc/7.wav|wo3 cai2 neng2 gou4 geng1 shen1 de gan3 shou4 dao4 ， yi3 yang2 jing4 yu3 wei4 dai4 biao3 de   dong1 bei3 kang4 lin2 zhan4 shi4 men 。
+./test/csmsc/8.wav|ta1 men ， dang1 nian2 ， suo3 ， fu4 chu1 de ， jian1 xin1 ， yi3 ji2 ， ta1 men suo3 ， jin4 xing2 de jian1 ku3 zhuo2 jue2 de dou4 zheng1 。
+./test/csmsc/9.wav|na4 jin1 tian1 ne ， ye3 xiang3 he2 da4 jia1   yi4 qi3   hui2 gu4 yi1 xia4 wo3 men ceng2 jing1 xue2 guo4 de yi1 pian1 ke4 wen2 ， kang4 ri4 ying1 xiong2 ， yang2 jing4 yu3 。
+./test/csmsc/10.wav|ye3 xi1 wang4 da4 jia1 jin1 tian1 wan3 shang4   zai4   chong2 wen1 le zhe4 pian1 ke4 wen2 zhi1 hou4 ne ， ye3 neng2 you3 geng1 shen1 de gan3 wu4 ，
+./test/csmsc/11.wav|yi1 jiu3 si4 ling2 nian2 er4 yue4 de yi1 tian1 wan3 shang4 ， yang2 jing4 yu3 dai4 zhe shi2 ji3 ming2 zhan4 shi4 ， xiang4 meng2 jiang1 dong1 bian1 de da4 sen1 lin2 jin4 fa1 。
+./test/csmsc/12.wav|dan4 ci3 ci4 xing2 dong4   bu4 xing4 bei4 pan4 tu2 gao4 mi4 ， ta1 men ， zai4 li2 meng2 jiang1 bu4 yuan3 de di4 fang1 ， bei4 shu4 qian1 ming2 ri4 kou4 ， bao1 wei2 le 。
+./test/csmsc/13.wav|yang2 jing4 yu3 hui1 dong4 zhe liang3 zhi1 xia2 zi qiang1 ， zuo3 you4 kai1 gong1 ， bian1 xiang4 di2 ren2 she4 ji1 ， bian1 ming4 ling4 tong2 zhi4 men xiang4 lin2 zi li3 che4 。
+./test/csmsc/14.wav|dao4 le wan3 shang4 hui4 qi2 shi2 ， dui4 wu3 zhi3 sheng4 xia4 qi1 ge4 ren2 le 。
+./test/csmsc/15.wav|yi1 tian1 mei2 chi1 dong1 xi1 le ， da4 jia1 wei2 zai4 huo3 dui1 pang2 ren3 shou4 ji1 e4 。
+./test/csmsc/16.wav|yang2 jing4 yu3 kan4 le kan4 jin3 you3 de yi1 kuai4 bao1 mi3 gan4 ， mo4 mo4 de dui4 jing3 wei4 yuan2 shuo1 。
+./test/csmsc/17.wav|jiu4 zhe4 dian3 gan1 liang2 ， dao3 sui4 ao2 dian3 tang1 ， gei3 da4 jia1 he1 ba 。
+./test/csmsc/18.wav|jing3 wei4 yuan2 yong4 gui3 zi de ban4 bian1 gang1 kui1 sheng4 shui3 ， jiang1 bao1 mi3 gan4 ， dao3 sui4 ， fang4 zai4 li3 bian1 。
+./test/csmsc/19.wav|zai4 huo3 dui1 shang4 ao2 hao3 hou4 ， qi1 ge4 ren2 ， yi1 ren2 ， he1 le ji3 kou3 tang1 。
+./test/csmsc/20.wav|sui2 hou4 ， yang2 jing4 yu3 dui4 da4 jia1 shuo1 ， nuan3 huo guo4 lai2 le ba ， tong2 zhi4 men 。
+./test/csmsc/21.wav|chen4 tian1 hei1 wo3 men fan1 guo4 zhe4 zuo4 shan1 jiu4 hao3 le ， dan4 di2 ren2 ceng2 ceng2 bao1 wei2 zhe 。
+./test/csmsc/22.wav|mi4 mi4 za1 za1 ， ru2 tie3 tong3 yi4 ban1 ， zhuan3 le yi1 ye4 ， reng2 wu2 fa3 guo4 ling3 。
+./test/csmsc/23.wav|tong2 zhi4 men e4 zhe du3 zi ， zai4 bing1 tian1 xue3 di4 li3 ， yu3 shu4 qian1 ming2 di2 ren2 zhou1 xuan2 。
+./test/csmsc/24.wav|le di4 wu3 tian1 de zhong1 wu3 shi2 fen1 ， di2 ren2 cai3 qu3 la1 wang3 ， bi4 shu1 zhan4 shu4 ， cong2 si4 mian4 ba1 fang1 wei2 le shang4 lai2 。
+./test/csmsc/25.wav|dao4 wan3 shang4 ， you4 you3 si4 wei4 tong2 zhi4   fu4 shang1 le 。
+./test/csmsc/26.wav|yang2 jing4 yu3 ba3 da4 jia1 zhao1 hu1 dao4 yi4 qi3 ， guo3 duan4 de shuo1 。
+./test/csmsc/27.wav|qing2 kuang4 fei1 chang2 wei1 ji2 ， da4 jia1 bi4 xu1 fen1 kai1 zou3 。
+./test/csmsc/28.wav|tong2 zhi4 men jin3 jin3 yong1 zai4 yi4 qi3 shuo1 ， si3 ， jiu4 si3 zai4 yi1 kuai4 ， huo2 ， ye3 huo2 zai4 yi1 kuai4 。
+./test/csmsc/29.wav|wo3 men bu4 neng2 wu2 wei4 de si3 ， duo1 huo2 yi2 ge4 ， ge2 ming4 jiu4 duo1 yi1 fen4 li4 liang4 ， yang2 jing4 yu3 shen1 qing2 de shuo1 。
+./test/csmsc/30.wav|yang2 jing4 yu3 rang4 si4 wei4 fu4 shang1 de tong2 zhi4 wang3 hui2 zou3 ， dao4 ke3 kao4 de lao3 xiang1 jia1 ， zan4 bi4 yang3 shang1 。
+./test/csmsc/31.wav|zi4 ji3 ze2 dai4 zhe ling4 liang3 ming2 zhan4 shi4 ji4 xu4 wang3 qian2 zou3 ， zheng1 qu3 ， neng2 yu3 you3 lin2 bu4 dui4 lian2 xi4 shang4 。
+./test/csmsc/32.wav|er2 di2 ren2 de bing1 li4 da4 bu4 ji2 zhong1 zai4 qian2 mian4 。
+./test/csmsc/33.wav|zai4 zhe4 sheng1 si3 guan1 tou2 ， yang2 jing4 yu3 ， yi4 ran2 ， ba3 si3 de wei1 xian3 ， liu2 gei3 le zi4 ji3 ， ba3 sheng1 de ke3 neng2 ， rang4 gei3 le tong2 zhi4 。
+./test/csmsc/34.wav|yang2 jing4 yu3 he2 liu2 xia4 de liang3 wei4 tong2 zhi4 ren3 shou4 zhe ji1 e4 ， he2 han2 leng3 de jian1 ao2 ， yu3 shu4 qian1 ming2 ri4 kou4 ， you4 fen4 zhan4 le ， san1 tian1   san1 ye4 hou4 。
+./test/csmsc/35.wav|yi1 ming2 zhan4 shi4 ， xi1 sheng1 le ， ling4 yi1 ming2 zhan4 shi4 ， ye3 fu4 le zhong4 shang1 。
+./test/csmsc/36.wav|yang2 jing4 yu3 ba3 shou4 shang1 de tong2 zhi4 ， yin3 bi4 dao4 yi2 ge4 shu4 dong4 li3 。
+./test/csmsc/37.wav|zhi1 shen1 yi1 ren2 ， yu3 di2 ren2 ， zhou1 xuan2 le   wu3 tian1 wu3 ye4 。
+./test/csmsc/38.wav|er4 shi2 san1 ri4 ling2 chen2 ， yang2 jing4 yu3 bian1 da3 bian1 zou3 。
+./test/csmsc/39.wav|lai2 dao4 le meng2 jiang1 xian4 de bao3 an1 tun2 fu4 jin4 ， dan4 bu4 xing4 ， bei4 di2 ren2 de yi2 ge4 zuo4 tan4 fa1 xian4 。
+./test/csmsc/40.wav|yi1 da4 gu3 di2 ren2 ， jiang1 yang2 jing4 yu3 ， tuan2 tuan2 wei2 zhu4 le 。
+./test/csmsc/41.wav|yang2 jing4 yu3 chen2 zhuo2 de ， jin3 wo4 liang3 zhi1 duan3 qiang1 ， yi3 zhe yi1 ke1 gu3 song1 ， dan4 wu2 xu1 fa1 de ， tong4 ji1 ， pu1 shang4 lai2 de di2 ren2 。
+./test/csmsc/42.wav|di2 ren2 xia4 de2 bu4 gan3 shang4 qian2 ， suo1 zai4 yuan3 chu4 meng3 jiao4 zhe 。
+./test/csmsc/43.wav|yang2 jing4 yu3 ， ni3 pao3 bu4 liao3 la ， kuai4 tou2 xiang2 ba ， ni3 guo4 lai2 jiu4 rang4 ni3 dang1 dong1 bian1 dao4 si1 ling4 。
+./test/csmsc/44.wav|yang2 jing4 yu3 hui2 da2 di2 ren2 de ， shi4 yi1 suo1 zi ， chou2 hen4 de zi3 dan4 。
+./test/csmsc/45.wav|gui3 zi jun1 guan1 qi4 de2 fa1 feng1 ， ji1 qiang1 bu4 qiang1 ， yi4 qi3 ， xiang4 yang2 jing4 yu3 she4 ji1 。
+./test/csmsc/46.wav|tu1 ran2 ， yang2 jing4 yu3 you4 shou3 yi1 chen2 ， ta1 gua4 cai3 le 。
+./test/csmsc/47.wav|yang2 jing4 yu3 wan2 qiang2 de yong4 zuo3 shou3 ， xiang4 di2 ren2 she4 ji1 ， zai4 ta1 mian4 qian2 ， di2 ren2 de shi1 ti3 ， dao4 le yi1 da4 pian4 。
+./test/csmsc/48.wav|you4 yi1 ke1 zi3 dan4 ji1 ， zhong1 le ta1 de yao1 ， dun4 shi2 ， xian1 xue4 ， ba3 jun1 zhuang1 ， jin4 tou4 le yi1 da4 pian4 。
+./test/csmsc/49.wav|di2 ren2 jian4 yang2 jing4 yu3 fu4 le zhong4 shang1 ， hao2 jiao4 zhe ， feng1 yong1 er2 shang4 。
+./test/csmsc/50.wav|zhe4 shi2 ， yang2 jing4 yu3 qiang1 li3 ， zhi3 sheng4 xia4 zui4 hou4 yi1 ke1 zi3 dan4 ， ta1 gao1 hu1 。
+./test/csmsc/51.wav|da3 dao3 ri4 ben3 di4 guo2 zhu3 yi4 ， zhong1 guo2 ， gong4 chan3 dang3 ， wan4 sui4 。
+./test/csmsc/52.wav|ran2 hou4 ， ba3 zui4 hou4 yi1 li4 zi3 dan4 ， liu2 gei3 le zi4 ji3   wei4 le ren2 min2 de jie3 fang4 ， ta1 xian4 chu1 le zi4 ji3 de sheng1 ming4 。
+./test/csmsc/53.wav|yang2 jing4 yu3 xi1 sheng1 hou4 ， di2 ren2 wu2 fa3 li3 jie3 ， yi2 ge4 kang4 lian2 zhan4 shi4 wei4 he2 ru2 ci3 ying1 yong3 wan2 qiang2 ， ta1 men ba3 yang2 jing4 yu3 de yi2 ti3 ， jin4 xing2 jie3 pou1 。
+./test/csmsc/54.wav|da3 kai1 chang2 wei4 ， gui3 zi jun1 guan1 jing1 dai1 le 。
+./test/csmsc/55.wav|zai4 zhe4 ge4 zhi1 shen1 yu3 shu4 qian1 ming2 ， ri4 ben3 bing1 ， zhan4 dou4 le ， wu3 tian1 wu3 ye4 de ， kang4 lian2 si1 ling4 de du3 zi li3 。
+./test/csmsc/56.wav|jing4 ， zhao3 bu2 dao4   yi1 li4 liang2 shi2 ， you3 de ， zhi3 shi4 wei4 xiao1 hua4 de ye3 cao3 ， shu4 pi2 ， he2 mian2 xu4 。
+./test/csmsc/57.wav|yang2 jing4 yu3 sui1 ran2 dao3 xia4 le ， dan4 ta1 na4 da4 wu2 wei4 de ge2 ming4 jing1 shen2 。
+./test/csmsc/58.wav|ji1 li4 zhe ， qian1 bai3 wan4 you1 xiu4 de ， zhong1 hua2 er2 nv3 ， zou3 shang4 ， kang4 ri4 qian2 xian4 。
+./test/csmsc/59.wav|zhe4 jiu4 shi4 wo3 men ceng2 jing1 xiao3 de shi2 hou4 xue2 xi2 guo4 de yi1 pian1 ke4 wen2
+./test/csmsc/60.wav|a wo3 xiang1 xin4 ne ， qi2 shi2 ， zai4 wo3 men zhang3 da4 le ， zhi1 hou4 。
+./test/csmsc/61.wav|wo3 men jing1 li4 le ， yue4 lai2 yue4 duo1 de sheng1 huo2 zhi1 hou4   dui4 yu2 ying1 xiong2 zhe4 ge4 ci2 ， wo3 men huo4 xu3 hui4 you3 ， geng1 shen1 ke4 de li3 jie3 。
+./test/csmsc/62.wav|huo4 xu3 ne mei3 ge4 ren2 xian4 zai4 dou1 hui4 huo4 duo1 huo4 shao3 de mian4 lin2 zhe yi1 xie1 kun4 jing4 。
+./test/csmsc/63.wav|qi2 shi2 da4 jia1 ne ， ye3 ke3 yi3 ， qu4 xiang3 yi1 xiang3 ， zhe4 xie1 ge2 ming4 xian1 bei4 men 。
+./test/csmsc/64.wav|qi2 shi2 da4 jia1 ne ， ye3 ke3 yi3 ， qu4 xiang3 yi1 xiang3 ， zhe4 xie1 ge2 ming4 xian1 bei4 men 。
+./test/csmsc/65.wav|na4 wo3 men huo4 xu3 ， ke3 yi3 geng4 jia1 zhen1 shi4 ， wo3 men jin1 tian1 de sheng1 huo2 。
+./test/csmsc/66.wav|hao3 na4 jin1 tian1 de ye4 du2 ， wo3 jiu4 pei2 ban4 da4 jia1 dao4 zhe4 li3 ， xie4 xie4 ni3 men de shou1 ting1 ， zai4 jian4 。
