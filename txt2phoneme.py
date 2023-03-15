@@ -4,7 +4,7 @@
 import os
 
 # 原始文本文件路径
-input_file = './wangbingbing.txt'
+input_file = './input.txt'
 
 # 存储音素文本的文件路径
 output_file = 'output.txt'
