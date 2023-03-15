@@ -25,7 +25,7 @@ English Documentation Please Click [here](https://github.com/xieyuankun/VITS-chi
 
 1. 请将G和D的检查点放在./logs/woman_csmsc下。100k和160k均可。
 2. 准备你的微调数据集，可参考以前mockingbird众多方法准备，准备好文本类似./input.txt
-3. 将input.txt通过txt2phoneme转化为output.txt样式的音素txt。
+3. 将准备好的input.txt通过`python txt2phoneme.py`转化为output.txt的音素txt。
 4. 音频文件放在./test/csmsc/，output.txt的内容复制到./test/woman_csmsc.txt.2.cleaned当中。
 5. 运行 `python3 train.py -c configs/woman_csmsc.json -m woman_csmsc`即可开始微调。
 
