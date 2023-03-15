@@ -36,7 +36,7 @@ net_g = SynthesizerTrn(
     **hps.model).cuda()
 _ = net_g.eval()
 
-_ = utils.load_checkpoint("/home/xieyuankun/VITS-biaobei/logs/woman_csmsc/G_140000.pth", net_g, None)
+_ = utils.load_checkpoint("./logs/woman_csmsc/G_160000.pth", net_g, None)
 
 stn_tst = get_text("完整，准确，全面贯彻，发展理念，着力推动高质量发展", hps)
 with torch.no_grad():
