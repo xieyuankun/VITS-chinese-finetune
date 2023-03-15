@@ -1,5 +1,6 @@
 #VITS 纯中文微调
-English Documentation Please Click [here](https://github.com/Plachtaa/VITS-fast-fine-tuning/blob/main/README.md)
+
+English Documentation Please Click [here](https://github.com/xieyuankun/VITS-chinese-finetune/blob/main/README%20-%20ENG.md)
 ##  该代码在[wac81/vits_chinese](https://github.com/wac81/vits_chinese)上进行了轻微修改
 ## 从标贝数据集进行推断
 
